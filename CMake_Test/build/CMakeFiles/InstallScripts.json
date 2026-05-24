@@ -1,0 +1,15 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/hhl/Desktop/CMake_Test/build/cmake_install.cmake",
+		"/home/hhl/Desktop/CMake_Test/build/common/cmake_install.cmake",
+		"/home/hhl/Desktop/CMake_Test/build/common/kalman/cmake_install.cmake",
+		"/home/hhl/Desktop/CMake_Test/build/common/math/cmake_install.cmake",
+		"/home/hhl/Desktop/CMake_Test/build/modules/cmake_install.cmake",
+		"/home/hhl/Desktop/CMake_Test/build/modules/A1/cmake_install.cmake",
+		"/home/hhl/Desktop/CMake_Test/build/modules/A2/cmake_install.cmake",
+		"/home/hhl/Desktop/CMake_Test/build/modules/M1/cmake_install.cmake",
+		"/home/hhl/Desktop/CMake_Test/build/modules/M2/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

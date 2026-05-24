@@ -1,0 +1,2 @@
+/home/hhl/miniconda3/bin/x86_64-conda-linux-gnu-ar qc libMath.a CMakeFiles/Math.dir/src/Math.cpp.o
+/home/hhl/miniconda3/bin/x86_64-conda-linux-gnu-ranlib libMath.a

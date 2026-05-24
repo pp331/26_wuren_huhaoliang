@@ -1,0 +1,2 @@
+/home/hhl/miniconda3/bin/x86_64-conda-linux-gnu-ar qc libM1.a CMakeFiles/M1.dir/src/M1.cpp.o
+/home/hhl/miniconda3/bin/x86_64-conda-linux-gnu-ranlib libM1.a
